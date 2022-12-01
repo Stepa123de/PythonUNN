@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "practic"
+version = "0.1.0"
+description = "all home works with wemake-python-styleguide"
+authors = ["Stepa_Kashin git Stepa123de"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+wemake-python-styleguide = "^0.17.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

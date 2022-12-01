@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "my-awesome-scipt"
+version = "0.1.0"
+description = ""
+authors = ["Luigi_Capello <Stepa.kashin.2018@gmail.com>"]
+readme = "README.md"
+packages = [{include = "my_awesome_scipt"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pygments = "^2.13.0"
+cowsay = "^5.0"
+pytz = "^2022.4"
+argparse = "^1.4.0"
+
+
+[tool.poetry.group.dev.dependencies]
+safety = "^2.3.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
