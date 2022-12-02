@@ -1,17 +1,18 @@
 ## Structure
 
 - HomeWorks
-1. [Class Array](https://github.com/Namxobick/unn-python-2022/tree/main/homeworks/Namxobick/2/class-Array)
-2. [Decorator Contract](https://github.com/Namxobick/unn-python-2022/tree/main/homeworks/Namxobick/3/decorator-Contract)
-3. [Refactoring the project](https://github.com/Namxobick/unn-python-2022/tree/main/homeworks/Namxobick/4/refactoring-project)
-4. [My awesome script](https://github.com/Namxobick/unn-python-2022/tree/main/homeworks/Namxobick/5/my-awesome-script)
-5. [Data parser](https://github.com/Namxobick/unn-python-2022/tree/main/homeworks/Namxobick/6/data-parser)
-6. [Asyncio data parser](https://github.com/Namxobick/unn-python-2022/tree/main/homeworks/Namxobick/7/asyncio-data-parser)
+1. [Class Array](https://github.com/Stepa123de/PythonUNN/tree/main/homeworks/Stepa123de/hw1)
+2. [Decorator Contract](https://github.com/Stepa123de/PythonUNN/tree/main/homeworks/Stepa123de/hw2)
+3. [Refactoring the project](https://github.com/Stepa123de/PythonUNN/tree/main/homeworks/Stepa123de/hw3)
+4. [My awesome script](https://github.com/Stepa123de/PythonUNN/tree/main/homeworks/Stepa123de/hw4)
+5. [Data parser](https://github.com/Stepa123de/PythonUNN/tree/main/homeworks/Stepa123de/hw5)
+6. [Asyncio data parser](https://github.com/Stepa123de/PythonUNN/tree/main/homeworks/Stepa123de/hw6)
 
 - Practice
-1. [Console game 15 puzzle](https://github.com/Namxobick/unn-python-2022/tree/main/practice/1/console-game-15-puzzle)
-2. [Testing exceptions](https://github.com/Namxobick/unn-python-2022/tree/main/practice/2/testing-exceptions)
-3. [Testing simultaneous requests](https://github.com/Namxobick/unn-python-2022/tree/main/practice/3/simultaneous-requests)
+1. [Practice3](https://github.com/Stepa123de/PythonUNN/tree/main/practice/pr3)
+2. [Practice4](https://github.com/Stepa123de/PythonUNN/tree/main/practice/pr4)
+3. [Practice5](https://github.com/Stepa123de/PythonUNN/tree/main/practice/pr5)
+4. [Practice6](https://github.com/Stepa123de/PythonUNN/tree/main/practice/pr6)
 
 # unn-python-2022
 
